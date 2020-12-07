@@ -1,0 +1,16 @@
+/*
+while (relational expression) {
+    loop body
+}
+*/
+public class Chap9Part1
+{
+    public static void main(String[] args)
+    {
+        int count = 0;
+        while(cout < 5) {
+            System.out.orintln("Hello, world!");
+            ++count;
+        }
+    }
+}
